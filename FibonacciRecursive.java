@@ -26,8 +26,3 @@ public class fibonacciRecursive {
         }
     }
 }
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
